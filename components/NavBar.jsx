@@ -12,7 +12,7 @@ const NavBar = () => {
   return (
     <div className="navbar-container">
       <p className="logo">
-        <Link href="/">WEBM Headphones</Link>
+        <Link href="/">WEBM Entertainment</Link>
       </p>
 
       <button type="button"
