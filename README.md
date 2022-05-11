@@ -19,3 +19,9 @@ In this project, i learnt:
 
 ![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 ![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
+
+## Project is Licensed Under the
+
+[MIT License](https://github.com/web-codegrammer/Project_ecommerce_sanitywithstripe/blob/main/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2022-2023 [web-codegrammer](https://github.com/web-codegrammer)
