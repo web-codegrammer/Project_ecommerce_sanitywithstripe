@@ -8,7 +8,7 @@ In this project, i learnt:
     - Folder and file structure, hooks and refs
 - Advanced State Management of the entire application using React Context API
 - Next.js Best Practices such as
-    - File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and you’ll also learn how to use Next.js as a backend endpoint.
+    - File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and also learnt how to use Next.js as a backend endpoint.
 - I learnt how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
 - And most importantly i learnt how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible. <show sanity desk>
 - Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
